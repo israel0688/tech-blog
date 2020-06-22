@@ -12,7 +12,7 @@ body, html {
 
 a {
   text-decoration: none;
-  color: #225ca3;
+  color: #cfb970;
   font-weight: bold;
   transition: color .1s;
 }
@@ -134,7 +134,7 @@ main {
 }
 
 .upvote-btn {
-  background-color: #197d0f;
+  background-color: #d66175;
   transition: background-color .1s;
 }
 
@@ -152,7 +152,7 @@ main {
 }
 
 .comment:nth-child(odd) {
-  background-color: #fff5eb;
+  background-color: #ddac7b;
 }
 
 .comment .meta {
@@ -170,7 +170,7 @@ main {
 }
 
 footer {
-  border-top: 1px solid #ccc;
+  border-top: 1px solid rgb(235, 145, 145);
   display: flex;
   justify-content: center;
   padding: 1%;
